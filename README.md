@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KimberlyRJohn
+- 👋 Hello world 🌎, I’m @KimberlyRJohn
 - 👀 I’m interested in AI-driven healthcare solutions
 - 🌱 I’m currently growing as a Healthcare Data Strategist/ Co-creator of AI-Driven Solutions
 - 💞️ I’m looking to bridge technology and patient care
